@@ -2,7 +2,7 @@
 
 <img src="https://img.icons8.com/?size=100&id=9267&format=png&color=bc9c22" width="20" height="20"> Electrical Engineer | <img src="https://img.icons8.com/?size=100&id=xJKXk2iNH7wt&format=png&color=bc9c22" width="20" height="20"> Brain-Computer Interface Researcher | <img src="https://img.icons8.com/?size=100&id=9078&format=png&color=bc9c22" width="20" height="20"> Tech Enthusiast
 
-Welcome to my GitHub profile!
+**Welcome to my GitHub profile!**
 
 I’m passionate about technology, research, and education. With a background in **Electrical Engineering**, **Brain-Computer Interface (BCI)**, **digital marketing**, **Cybersecurity**, **networking** and **Internet of Things**, I love bridging the gap between software and hardware. Here's a little more about me and my work!
 
