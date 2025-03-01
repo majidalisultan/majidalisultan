@@ -70,7 +70,7 @@ I’m passionate about technology, research, and education. With a background in
 
 <img src="https://github.com/user-attachments/assets/1a865a5a-71c8-4b39-8ed3-846e965aa334" width="70" height="40">
 
-📑 [Cisco DevNet Associate](https://www.credly.com/badges/6f95d8b8-eb7f-4bb2-a6c4-cf799dea89e8/public_url)
+📑 [DevNet Associate](https://www.credly.com/badges/6f95d8b8-eb7f-4bb2-a6c4-cf799dea89e8/public_url)
 
 # Cybersecurity
 <p></p>
@@ -78,7 +78,7 @@ I’m passionate about technology, research, and education. With a background in
 
 📑 [CyberOps Associate](https://www.credly.com/badges/b56ffd40-8049-4711-a52e-fd971c9e67ca/public_url)
 
-📑 [Cisco Junior Cybersecurity Analyst Career Path](https://www.credly.com/badges/4716f30e-05c0-49c2-a0df-21b3d6ce1858/public_url)
+📑 [Junior Cybersecurity Analyst Career Path](https://www.credly.com/badges/4716f30e-05c0-49c2-a0df-21b3d6ce1858/public_url)
    
 📑 [1-Introduction to Cybersecurity](https://www.credly.com/badges/b93a4abc-1ca5-40e8-bf11-2ec61bab8a6f/public_url)
    
@@ -116,7 +116,7 @@ I’m passionate about technology, research, and education. With a background in
 
 <img src="https://github.com/user-attachments/assets/1a865a5a-71c8-4b39-8ed3-846e965aa334" width="70" height="40">
 
-📑 [Cisco IT Essentials](https://www.credly.com/badges/c2c6fb95-31ad-4513-8ae3-40fc8a69bded/public_url)
+📑 [IT Essentials](https://www.credly.com/badges/c2c6fb95-31ad-4513-8ae3-40fc8a69bded/public_url)
 
 # Project Management
   
@@ -173,7 +173,7 @@ I’m passionate about technology, research, and education. With a background in
 
 <img src="https://github.com/user-attachments/assets/1a865a5a-71c8-4b39-8ed3-846e965aa334" width="70" height="40">
 
-📑 [Cisco Python Essentials 1](https://www.credly.com/badges/915e4c5d-8126-4e9f-9821-e51e880de49f/public_url)
+📑 [Python Essentials 1](https://www.credly.com/badges/915e4c5d-8126-4e9f-9821-e51e880de49f/public_url)
 
 <img src="https://github.com/user-attachments/assets/d234b6aa-4a01-4496-bdeb-1b9b1a7a128c" width="45" height="45">
 
