@@ -114,7 +114,7 @@ I’m passionate about technology, research, and education. With a background in
 
 <p></p>
 
-<img src="https://github.com/user-attachments/assets/823e4d21-ef3b-4987-9477-09cef1e07796" width="70" height="40">
+<img src="https://github.com/user-attachments/assets/1a865a5a-71c8-4b39-8ed3-846e965aa334" width="70" height="40">
 
 📑 [Cisco IT Essentials](https://www.credly.com/badges/c2c6fb95-31ad-4513-8ae3-40fc8a69bded/public_url)
 
