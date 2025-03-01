@@ -64,7 +64,7 @@ I’m passionate about technology, research, and education. With a background in
          
  📑 [4-Network Support and Security](https://www.credly.com/badges/0b2ab4ea-2ab7-4eb7-9d24-58db93a5d5e6/public_url)
 
-# Software Development & Automation
+# DevNet
 
 <p></p>
 
