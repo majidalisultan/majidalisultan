@@ -1,9 +1,6 @@
-![](https://github.com/user-attachments/assets/9c4e7b8a-165a-45ed-92ca-b4a3c29dd674)
-
-# Hi, I'm Majid.  
+# Hi, I'm Majid
 
 <img src="https://img.icons8.com/?size=100&id=9267&format=png&color=bc9c22" width="20" height="20"> Electrical Engineer | <img src="https://img.icons8.com/?size=100&id=xJKXk2iNH7wt&format=png&color=bc9c22" width="20" height="20"> Brain-Computer Interface Researcher | <img src="https://img.icons8.com/?size=100&id=9078&format=png&color=bc9c22" width="20" height="20"> Tech Enthusiast
-
 
 # Welcome to my GitHub profile!
 
@@ -148,10 +145,6 @@ I’m passionate about technology, research, and education. With a background in
   📑 [Agile Project Management Certifications](https://www.life-global.org/certificate/e0eb7425-931c-4df2-968f-c1c1d04b42dc)
 
 # Digital Marketing & E-Commerce
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/0880e44c-e27b-4e6e-9bf9-e4d1e841a54d" width="500" height="500"/>
-</p>
 
 <img src="https://github.com/user-attachments/assets/d234b6aa-4a01-4496-bdeb-1b9b1a7a128c" width="45" height="45">
 
