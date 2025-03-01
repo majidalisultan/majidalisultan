@@ -1,6 +1,6 @@
 # Hi, I'm Majid
 
-<img src="https://img.icons8.com/?size=100&id=9267&format=png&color=bc9c22" width="20" height="20"> Electrical Engineer | <img src="https://img.icons8.com/?size=100&id=xJKXk2iNH7wt&format=png&color=bc9c22" width="20" height="20"> Brain-Computer Interface Researcher | <img src="https://img.icons8.com/?size=100&id=9078&format=png&color=bc9c22" width="20" height="20"> Cyber-Physical Systems Cognoscente
+<img src="https://img.icons8.com/?size=100&id=9267&format=png&color=bc9c22" width="20" height="20"> Electrical Engineer | <img src="https://img.icons8.com/?size=100&id=xJKXk2iNH7wt&format=png&color=bc9c22" width="20" height="20"> Brain-Computer Interface Researcher | <img src="https://img.icons8.com/?size=100&id=9078&format=png&color=bc9c22" width="20" height="20"> Into Cyber-Physical Systems
 
 **Welcome to my GitHub profile!**
 
