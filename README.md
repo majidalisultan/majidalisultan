@@ -38,6 +38,40 @@ I’m passionate about technology, research, and education. With a background in
 
 [BCI‐control and monitoring system for smart home automation using wavelet classifiers](https://digital-library.theiet.org/doi/full/10.1049/sil2.12080)
 
+# Networking
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e169c55a-225a-4f0e-a60f-6cfbe4f2143f" width="500" height="400"/>
+</p>
+
+<img src="https://github.com/user-attachments/assets/1a865a5a-71c8-4b39-8ed3-846e965aa334" width="70" height="40">
+
+📑 [CCNP: Core Networking](https://www.credly.com/badges/f1e95f90-ef64-4d73-a271-ce59cadc2ebf/public_url)
+
+📑 [CCNA: Enterprise Networking, Security, and Automation](https://www.credly.com/badges/10051d05-058d-4f92-964e-da82ed0686d8/public_url)
+
+📑 [CCNA: Switching, Routing, and Wireless Essentials](https://www.credly.com/badges/886f7d1e-15eb-4b0e-b746-a61a0db5cf70/public_url)
+
+📑 [CCNA: Introduction to Networks](https://www.credly.com/badges/b1b31be6-032c-4a28-aab7-57d3bbc1efe3/public_url)
+
+📑 [Cisco CCST-Networking - Network Technician Career Path](https://www.credly.com/badges/9cd54800-c825-46d7-879a-defe795a9785/public_url)
+
+ 📑 [1-Networking Basics](https://www.credly.com/badges/e30a0085-6fc1-4c2a-a5c3-ae04782bc62d/public_url)
+         
+ 📑 [2-Networking Devices and Initial Configuration](https://www.credly.com/badges/2104eda8-03a9-4498-8599-ce8bdd44ff0a/public_url)
+         
+ 📑 [3-Network Addressing and Basic Troubleshooting](https://www.credly.com/badges/15545d6d-fc78-40a5-9c1d-a47cea14209d/public_url)
+         
+ 📑 [4-Network Support and Security](https://www.credly.com/badges/0b2ab4ea-2ab7-4eb7-9d24-58db93a5d5e6/public_url)
+
+# Software Development & Automation
+
+<p></p>
+
+<img src="https://github.com/user-attachments/assets/1a865a5a-71c8-4b39-8ed3-846e965aa334" width="70" height="40">
+
+📑 [Cisco DevNet Associate](https://www.credly.com/badges/6f95d8b8-eb7f-4bb2-a6c4-cf799dea89e8/public_url)
+
 # Cybersecurity
 <p></p>
 <img src="https://github.com/user-attachments/assets/1a865a5a-71c8-4b39-8ed3-846e965aa334" width="70" height="40">
@@ -75,40 +109,6 @@ I’m passionate about technology, research, and education. With a background in
   📑 [7-Automate Cybersecurity Tasks with Python](https://coursera.org/verify/Q8DVJE8SNMQH)
    
   📑 [8-Cybersecurity Jobs Preparation](https://coursera.org/verify/ZTDZPTZ7YK7V)
-
-# Networking
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/e169c55a-225a-4f0e-a60f-6cfbe4f2143f" width="500" height="400"/>
-</p>
-
-<img src="https://github.com/user-attachments/assets/1a865a5a-71c8-4b39-8ed3-846e965aa334" width="70" height="40">
-
-📑 [CCNP: Core Networking](https://www.credly.com/badges/f1e95f90-ef64-4d73-a271-ce59cadc2ebf/public_url)
-
-📑 [CCNA: Enterprise Networking, Security, and Automation](https://www.credly.com/badges/10051d05-058d-4f92-964e-da82ed0686d8/public_url)
-
-📑 [CCNA: Switching, Routing, and Wireless Essentials](https://www.credly.com/badges/886f7d1e-15eb-4b0e-b746-a61a0db5cf70/public_url)
-
-📑 [CCNA: Introduction to Networks](https://www.credly.com/badges/b1b31be6-032c-4a28-aab7-57d3bbc1efe3/public_url)
-
-📑 [Cisco CCST-Networking - Network Technician Career Path](https://www.credly.com/badges/9cd54800-c825-46d7-879a-defe795a9785/public_url)
-
- 📑 [1-Networking Basics](https://www.credly.com/badges/e30a0085-6fc1-4c2a-a5c3-ae04782bc62d/public_url)
-         
- 📑 [2-Networking Devices and Initial Configuration](https://www.credly.com/badges/2104eda8-03a9-4498-8599-ce8bdd44ff0a/public_url)
-         
- 📑 [3-Network Addressing and Basic Troubleshooting](https://www.credly.com/badges/15545d6d-fc78-40a5-9c1d-a47cea14209d/public_url)
-         
- 📑 [4-Network Support and Security](https://www.credly.com/badges/0b2ab4ea-2ab7-4eb7-9d24-58db93a5d5e6/public_url)
-
-# Software Development & Automation
-
-<p></p>
-
-<img src="https://github.com/user-attachments/assets/1a865a5a-71c8-4b39-8ed3-846e965aa334" width="70" height="40">
-
-📑 [Cisco DevNet Associate](https://www.credly.com/badges/6f95d8b8-eb7f-4bb2-a6c4-cf799dea89e8/public_url)
 
 # IT Support
 
