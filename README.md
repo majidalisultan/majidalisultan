@@ -82,7 +82,7 @@ I’m passionate about technology, research, and education. With a background in
 # Networking
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8225f902-a613-45b2-ab46-172faf484bef" />
+  <img src="https://github.com/user-attachments/assets/e169c55a-225a-4f0e-a60f-6cfbe4f2143f" width="500" height="400"/>
 </p>
 
 <img src="https://github.com/user-attachments/assets/1a865a5a-71c8-4b39-8ed3-846e965aa334" width="70" height="40">
@@ -150,7 +150,7 @@ I’m passionate about technology, research, and education. With a background in
 # Digital Marketing & E-Commerce
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6dc2060b-5001-40e2-983e-bad0c0996e73" />
+  <img src="https://github.com/user-attachments/assets/0880e44c-e27b-4e6e-9bf9-e4d1e841a54d" width="500" height="500"/>
 </p>
 
 <img src="https://github.com/user-attachments/assets/d234b6aa-4a01-4496-bdeb-1b9b1a7a128c" width="45" height="45">
@@ -175,7 +175,7 @@ I’m passionate about technology, research, and education. With a background in
 
 # Python
 
-  <img src="https://github.com/user-attachments/assets/97219a6c-dd96-4c80-b66e-541526c9f17f" width="150" height="150"/>
+  <img src="https://github.com/user-attachments/assets/a0d1f218-f55c-4ceb-8b7d-51e096fc1ffe" width="150" height="150"/>
 <p></p>
 
 <img src="https://github.com/user-attachments/assets/1a865a5a-71c8-4b39-8ed3-846e965aa334" width="70" height="40">
@@ -203,7 +203,7 @@ I’m passionate about technology, research, and education. With a background in
 # AI
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/151b7ab0-eb36-4856-b0b3-e070a719cd10" width="600" height="300"/>
+  <img src="https://github.com/user-attachments/assets/0935a03f-eb76-4c56-a73d-0d05c333d74c" width="600" height="300"/>
 </p>
 
 <p></p>
@@ -217,7 +217,7 @@ I’m passionate about technology, research, and education. With a background in
 # Optimization - MATLAB
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9d0545bd-f399-4135-b3d2-b70ad1eb6dd6" width="150" height="150"/>
+  <img src="https://github.com/user-attachments/assets/df52b7e2-37b7-48be-9ea6-98fc187b05be" width="150" height="150"/>
 </p>
 <p></p>
 <img src="https://github.com/user-attachments/assets/6f6e7b12-dbc0-476f-a7fe-8290fecc174a" width="70" height="40">
@@ -235,7 +235,7 @@ I’m passionate about technology, research, and education. With a background in
 # Presentation Skills
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ab8f4be0-2559-4ada-92fe-1539e0361386" />
+  <img src="https://github.com/user-attachments/assets/1ddcf29a-06a7-4558-b1e6-b5ca97a22764" width="400" height="300"/>
 </p>
 
 <img src="https://github.com/user-attachments/assets/afff4809-7f71-4ea6-ab28-0c3326c15347" width="45" height="45">
