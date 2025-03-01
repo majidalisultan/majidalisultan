@@ -1,14 +1,13 @@
-
-![pngwing com(7)](https://github.com/user-attachments/assets/53c23585-e11e-44a6-9e23-d011ff620ba9)
-
-<img src="https://github.com/user-attachments/assets/1c4ba3de-02c5-4ef8-a48f-a24b28ea8c0d">
+![](https://github.com/user-attachments/assets/9c4e7b8a-165a-45ed-92ca-b4a3c29dd674)
 
 # Hi, I'm Majid.  
 
 <img src="https://img.icons8.com/?size=100&id=9267&format=png&color=bc9c22" width="20" height="20"> Electrical Engineer | <img src="https://img.icons8.com/?size=100&id=xJKXk2iNH7wt&format=png&color=bc9c22" width="20" height="20"> Brain-Computer Interface Researcher | <img src="https://img.icons8.com/?size=100&id=9078&format=png&color=bc9c22" width="20" height="20"> Tech Enthusiast
 
 
-Welcome to my GitHub profile! I’m passionate about technology, research, and education. With a background in **Electrical Engineering**, **Brain-Computer Interface (BCI)**, **digital marketing**, **Cybersecurity**, **networking** and **Internet of Things**, I love bridging the gap between software and hardware. Here's a little more about me and my work!
+# Welcome to my GitHub profile!
+
+I’m passionate about technology, research, and education. With a background in **Electrical Engineering**, **Brain-Computer Interface (BCI)**, **digital marketing**, **Cybersecurity**, **networking** and **Internet of Things**, I love bridging the gap between software and hardware. Here's a little more about me and my work!
 
 ## Research Interests
 
@@ -26,17 +25,17 @@ Welcome to my GitHub profile! I’m passionate about technology, research, and e
 - **Project Management**: Agile methodologies, Scrum  
 - **Automation**: Smart Home Technologies
 
-<img src="https://github.com/user-attachments/assets/823e4d21-ef3b-4987-9477-09cef1e07796" width="70" height="40">
+<img src="https://github.com/user-attachments/assets/1a865a5a-71c8-4b39-8ed3-846e965aa334" width="70" height="40">
 
-<img src="https://github.com/user-attachments/assets/d9686699-601f-4c9d-b25d-2d789040c1a7" width="45" height="45">
+<img src="https://github.com/user-attachments/assets/d234b6aa-4a01-4496-bdeb-1b9b1a7a128c" width="45" height="45">
 
-<img src="https://github.com/user-attachments/assets/ec2e2aad-22ee-4927-8830-ed6a9c31643a" width="90" height="40">
+<img src="https://github.com/user-attachments/assets/01651e19-f917-4f17-9e4a-2281cbc9653f" width="90" height="40">
 
-<img src="https://github.com/user-attachments/assets/97260281-d971-46da-8581-fc46d123f6f0" width="45" height="45">
+<img src="https://github.com/user-attachments/assets/afff4809-7f71-4ea6-ab28-0c3326c15347" width="45" height="45">
 
-<img src="https://github.com/user-attachments/assets/9061f793-7348-4525-99c5-2f6c05154151" width="70" height="40">
+<img src="https://github.com/user-attachments/assets/6f6e7b12-dbc0-476f-a7fe-8290fecc174a" width="70" height="40">
 
-<img src="https://github.com/user-attachments/assets/45e9117a-2d35-4e31-83b0-c1ffde484cb8" width="50" height="50">
+<img src="https://github.com/user-attachments/assets/74cbf7c8-d507-4259-90a6-9a649403fea8" width="50" height="50">
 
 # Brain-Computer Interface - Research | Published
 
@@ -44,7 +43,7 @@ Welcome to my GitHub profile! I’m passionate about technology, research, and e
 
 # Cybersecurity
 <p></p>
-<img src="https://github.com/user-attachments/assets/823e4d21-ef3b-4987-9477-09cef1e07796" width="70" height="40">
+<img src="https://github.com/user-attachments/assets/1a865a5a-71c8-4b39-8ed3-846e965aa334" width="70" height="40">
 
 📑 [CyberOps Associate](https://www.credly.com/badges/b56ffd40-8049-4711-a52e-fd971c9e67ca/public_url)
 
@@ -58,9 +57,9 @@ Welcome to my GitHub profile! I’m passionate about technology, research, and e
    
 📑 [4-Cyber Threat Management](https://www.credly.com/badges/ed6e806f-524a-4451-a440-fcf7e048858c/public_url)
 
-<img src="https://github.com/user-attachments/assets/d9686699-601f-4c9d-b25d-2d789040c1a7" width="45" height="45">
+<img src="https://github.com/user-attachments/assets/d234b6aa-4a01-4496-bdeb-1b9b1a7a128c" width="45" height="45">
 
-<img src="https://github.com/user-attachments/assets/ec2e2aad-22ee-4927-8830-ed6a9c31643a" width="90" height="40">
+<img src="https://github.com/user-attachments/assets/01651e19-f917-4f17-9e4a-2281cbc9653f" width="90" height="40">
 
 📑 [Google Cyberseurity](https://coursera.org/verify/professional-cert/A5FBCJMDMTGW)
 
@@ -86,7 +85,7 @@ Welcome to my GitHub profile! I’m passionate about technology, research, and e
   <img src="https://github.com/user-attachments/assets/8225f902-a613-45b2-ab46-172faf484bef" />
 </p>
 
-<img src="https://github.com/user-attachments/assets/823e4d21-ef3b-4987-9477-09cef1e07796" width="70" height="40">
+<img src="https://github.com/user-attachments/assets/1a865a5a-71c8-4b39-8ed3-846e965aa334" width="70" height="40">
 
 📑 [CCNP: Core Networking](https://www.credly.com/badges/f1e95f90-ef64-4d73-a271-ce59cadc2ebf/public_url)
 
@@ -110,7 +109,7 @@ Welcome to my GitHub profile! I’m passionate about technology, research, and e
 
 <p></p>
 
-<img src="https://github.com/user-attachments/assets/823e4d21-ef3b-4987-9477-09cef1e07796" width="70" height="40">
+<img src="https://github.com/user-attachments/assets/1a865a5a-71c8-4b39-8ed3-846e965aa334" width="70" height="40">
 
 📑 [Cisco DevNet Associate](https://www.credly.com/badges/6f95d8b8-eb7f-4bb2-a6c4-cf799dea89e8/public_url)
 
@@ -126,9 +125,9 @@ Welcome to my GitHub profile! I’m passionate about technology, research, and e
   
 <p></p>
 
-<img src="https://github.com/user-attachments/assets/d9686699-601f-4c9d-b25d-2d789040c1a7" width="45" height="45">
+<img src="https://github.com/user-attachments/assets/d234b6aa-4a01-4496-bdeb-1b9b1a7a128c" width="45" height="45">
 
-<img src="https://github.com/user-attachments/assets/ec2e2aad-22ee-4927-8830-ed6a9c31643a" width="90" height="40">
+<img src="https://github.com/user-attachments/assets/01651e19-f917-4f17-9e4a-2281cbc9653f" width="90" height="40">
 
 [Google Project Management](https://coursera.org/verify/55O174PJLN9P)
 
@@ -144,7 +143,7 @@ Welcome to my GitHub profile! I’m passionate about technology, research, and e
    
   📑 [6-Capstone: Applying Project Management in the Real World](https://coursera.org/verify/01B1ONGSJSPP)
 
-<img src="https://github.com/user-attachments/assets/97260281-d971-46da-8581-fc46d123f6f0" width="45" height="45">
+<img src="https://github.com/user-attachments/assets/afff4809-7f71-4ea6-ab28-0c3326c15347" width="45" height="45">
 
   📑 [Agile Project Management Certifications](https://www.life-global.org/certificate/e0eb7425-931c-4df2-968f-c1c1d04b42dc)
 
@@ -154,9 +153,9 @@ Welcome to my GitHub profile! I’m passionate about technology, research, and e
   <img src="https://github.com/user-attachments/assets/6dc2060b-5001-40e2-983e-bad0c0996e73" />
 </p>
 
-<img src="https://github.com/user-attachments/assets/d9686699-601f-4c9d-b25d-2d789040c1a7" width="45" height="45">
+<img src="https://github.com/user-attachments/assets/d234b6aa-4a01-4496-bdeb-1b9b1a7a128c" width="45" height="45">
 
-<img src="https://github.com/user-attachments/assets/ec2e2aad-22ee-4927-8830-ed6a9c31643a" width="90" height="40">
+<img src="https://github.com/user-attachments/assets/01651e19-f917-4f17-9e4a-2281cbc9653f" width="90" height="40">
 
 [Google Digital Marketing & E-Commerce](https://coursera.org/verify/4VJTYBLCPMSX)
 
@@ -179,25 +178,25 @@ Welcome to my GitHub profile! I’m passionate about technology, research, and e
   <img src="https://github.com/user-attachments/assets/97219a6c-dd96-4c80-b66e-541526c9f17f" width="150" height="150"/>
 <p></p>
 
-<img src="https://github.com/user-attachments/assets/823e4d21-ef3b-4987-9477-09cef1e07796" width="70" height="40">
+<img src="https://github.com/user-attachments/assets/1a865a5a-71c8-4b39-8ed3-846e965aa334" width="70" height="40">
 
 📑 [Cisco Python Essentials 1](https://www.credly.com/badges/915e4c5d-8126-4e9f-9821-e51e880de49f/public_url)
 
-<img src="https://github.com/user-attachments/assets/d9686699-601f-4c9d-b25d-2d789040c1a7" width="45" height="45">
+<img src="https://github.com/user-attachments/assets/d234b6aa-4a01-4496-bdeb-1b9b1a7a128c" width="45" height="45">
 
-<img src="https://github.com/user-attachments/assets/ec2e2aad-22ee-4927-8830-ed6a9c31643a" width="90" height="40">
+<img src="https://github.com/user-attachments/assets/01651e19-f917-4f17-9e4a-2281cbc9653f" width="90" height="40">
 
 📑 [Google Crash Course on Python](https://coursera.org/verify/FBXYY41PI9AG)
 
 # Data Science & Analytics
 
-<img src="https://github.com/user-attachments/assets/823e4d21-ef3b-4987-9477-09cef1e07796" width="70" height="40">
+<img src="https://github.com/user-attachments/assets/1a865a5a-71c8-4b39-8ed3-846e965aa334" width="70" height="40">
 
 📑 [Introduction to Data Science - Cisco ](https://www.credly.com/badges/41c95097-8062-424e-a02f-36675cb9ccfa/public_url)
    
 📑  [Data Analytics Essentials - Cisco](https://www.credly.com/badges/d78098c4-321c-44d6-8a7b-ed8baed3505b/public_url)
 
-<img src="https://github.com/user-attachments/assets/97260281-d971-46da-8581-fc46d123f6f0" width="45" height="45">
+<img src="https://github.com/user-attachments/assets/afff4809-7f71-4ea6-ab28-0c3326c15347" width="45" height="45">
 
   📑 [Data Science & Analytics](https://www.life-global.org/certificate/a26ea4b6-a359-4ce9-8f4e-56533dd24c8e)
 
@@ -209,9 +208,9 @@ Welcome to my GitHub profile! I’m passionate about technology, research, and e
 
 <p></p>
 
-<img src="https://github.com/user-attachments/assets/d9686699-601f-4c9d-b25d-2d789040c1a7" width="45" height="45">
+<img src="https://github.com/user-attachments/assets/d234b6aa-4a01-4496-bdeb-1b9b1a7a128c" width="45" height="45">
 
-<img src="https://github.com/user-attachments/assets/ec2e2aad-22ee-4927-8830-ed6a9c31643a" width="90" height="40">
+<img src="https://github.com/user-attachments/assets/01651e19-f917-4f17-9e4a-2281cbc9653f" width="90" height="40">
 
 📑 [Google AI Essentials](https://coursera.org/verify/KZDXNT68P1H9)
 
@@ -221,13 +220,13 @@ Welcome to my GitHub profile! I’m passionate about technology, research, and e
   <img src="https://github.com/user-attachments/assets/9d0545bd-f399-4135-b3d2-b70ad1eb6dd6" width="150" height="150"/>
 </p>
 <p></p>
-<img src="https://github.com/user-attachments/assets/9061f793-7348-4525-99c5-2f6c05154151" width="70" height="40">
+<img src="https://github.com/user-attachments/assets/6f6e7b12-dbc0-476f-a7fe-8290fecc174a" width="70" height="40">
 
 📑 [Particle Swarm Optimization in MATLAB](https://www.udemy.com/certificate/UC-ec93adef-0be1-42c5-8049-36aad1a3145b/)
 
 # Microsoft Excel
 <p></p>
-<img src="https://github.com/user-attachments/assets/9061f793-7348-4525-99c5-2f6c05154151" width="70" height="40">
+<img src="https://github.com/user-attachments/assets/6f6e7b12-dbc0-476f-a7fe-8290fecc174a" width="70" height="40">
 
 📑 [Advanced Excel Course for Job and Real World - Udemy ](https://www.udemy.com/certificate/UC-b23ac41c-dd82-4bef-a29b-ce89b490f34f)
 
@@ -239,11 +238,11 @@ Welcome to my GitHub profile! I’m passionate about technology, research, and e
   <img src="https://github.com/user-attachments/assets/ab8f4be0-2559-4ada-92fe-1539e0361386" />
 </p>
 
-<img src="https://github.com/user-attachments/assets/97260281-d971-46da-8581-fc46d123f6f0" width="45" height="45">
+<img src="https://github.com/user-attachments/assets/afff4809-7f71-4ea6-ab28-0c3326c15347" width="45" height="45">
 
 📑 [HP - Effective Presentations](https://www.life-global.org/certificate/4c5cef18-5c35-4b98-b3a8-9247e0b26c89)
 
-<img src="https://github.com/user-attachments/assets/45e9117a-2d35-4e31-83b0-c1ffde484cb8" width="50" height="50">
+<img src="https://github.com/user-attachments/assets/74cbf7c8-d507-4259-90a6-9a649403fea8" width="50" height="50">
 
 📑 [Speaking_And_Presentation Skills](https://github.com/user-attachments/assets/12d11bf0-2910-4b1b-8911-f0fc496ebb2c)
 
@@ -255,7 +254,7 @@ Welcome to my GitHub profile! I’m passionate about technology, research, and e
 
 # Personal Development Skills
 
-<img src="https://github.com/user-attachments/assets/45e9117a-2d35-4e31-83b0-c1ffde484cb8" width="50" height="50">
+<img src="https://github.com/user-attachments/assets/74cbf7c8-d507-4259-90a6-9a649403fea8" width="50" height="50">
 
 📑 [Thinking_Skills](https://github.com/user-attachments/assets/ac0b9589-8f84-48f8-9e88-bea1fe33bbc0)
 
