@@ -4,7 +4,9 @@
 
 **Welcome to my GitHub profile!**
 
-I’m passionate about technology, research, and education. With a background in **Electrical Engineering**, **Brain-Computer Interface (BCI)**, **digital marketing**, **Cybersecurity**, **networking** and **Internet of Things**, I love bridging the gap between software and hardware. Here's a little more about me and my work!
+I’m passionate about technology, research, and education. With a background in **Electrical Engineering**, **Brain-Computer Interface (BCI)**, **Cybersecurity**, **Networking**, **Internet of Things**, **Digital Marketing** and **E-Commerce** I love bridging the gap between software and hardware.
+
+Here's a little more about me and my work!
 
 ## Research Interests
 
