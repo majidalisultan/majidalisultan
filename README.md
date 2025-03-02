@@ -5,6 +5,7 @@
 **Welcome to my GitHub profile!**
 
 I’m passionate about Technology, Research, and Education. With a background in **Electrical Engineering**, **Brain-Computer Interface (BCI)**, **Cybersecurity**, **Networking**, **Internet of Things**, **Digital Marketing** and **E-Commerce** I love bridging the gap between **Software** & **Hardware** and exploring **Cyber-Physical** and **Quantum** Systems.
+
 Have a look at my Skils and Badges-earned at [**Credly**](https://www.credly.com/users/majidalisultan).
 
 Here's a little more about me and my work!
