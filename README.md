@@ -172,9 +172,6 @@ Here's a little more about me and my work!
 
 # Python
 
-  <img src="https://github.com/user-attachments/assets/a0d1f218-f55c-4ceb-8b7d-51e096fc1ffe" width="150" height="150"/>
-<p></p>
-
 <img src="https://github.com/user-attachments/assets/1a865a5a-71c8-4b39-8ed3-846e965aa334" width="70" height="40">
 
 📑 [**Python Essentials 1**](https://www.credly.com/badges/915e4c5d-8126-4e9f-9821-e51e880de49f/public_url)
@@ -212,10 +209,6 @@ Here's a little more about me and my work!
 📑 [**Google AI Essentials**](https://coursera.org/verify/KZDXNT68P1H9)
 
 # Optimization - MATLAB
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/df52b7e2-37b7-48be-9ea6-98fc187b05be" width="150" height="150"/>
-</p>
 <p></p>
 <img src="https://github.com/user-attachments/assets/6f6e7b12-dbc0-476f-a7fe-8290fecc174a" width="70" height="40">
 
@@ -230,10 +223,6 @@ Here's a little more about me and my work!
 📑 [**Getting Started with Microsoft Excel - Coursera Project**](https://coursera.org/verify/86RS7OCXWX1O)
 
 # Presentation Skills
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/1ddcf29a-06a7-4558-b1e6-b5ca97a22764" width="400" height="300"/>
-</p>
 
 <img src="https://github.com/user-attachments/assets/afff4809-7f71-4ea6-ab28-0c3326c15347" width="45" height="45">
 
