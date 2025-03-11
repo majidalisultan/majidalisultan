@@ -26,27 +26,11 @@ Here's a little more about me and my work!
 - **Project Management**: Agile methodologies, Scrum  
 - **Automation**: Smart Home Technologies
 
-<img src="https://github.com/user-attachments/assets/1a865a5a-71c8-4b39-8ed3-846e965aa334" width="70" height="40">
-
-<img src="https://github.com/user-attachments/assets/d234b6aa-4a01-4496-bdeb-1b9b1a7a128c" width="45" height="45">
-
-<img src="https://github.com/user-attachments/assets/01651e19-f917-4f17-9e4a-2281cbc9653f" width="90" height="40">
-
-<img src="https://github.com/user-attachments/assets/afff4809-7f71-4ea6-ab28-0c3326c15347" width="45" height="45">
-
-<img src="https://github.com/user-attachments/assets/6f6e7b12-dbc0-476f-a7fe-8290fecc174a" width="70" height="40">
-
-<img src="https://github.com/user-attachments/assets/74cbf7c8-d507-4259-90a6-9a649403fea8" width="50" height="50">
-
 # Brain-Computer Interface - Research | Published
 
 [**BCI‐control and monitoring system for smart home automation using wavelet classifiers**](https://digital-library.theiet.org/doi/full/10.1049/sil2.12080)
 
 # Networking
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/e169c55a-225a-4f0e-a60f-6cfbe4f2143f" width="500" height="400"/>
-</p>
 
 <img src="https://github.com/user-attachments/assets/1a865a5a-71c8-4b39-8ed3-846e965aa334" width="70" height="40">
 
@@ -195,11 +179,6 @@ Here's a little more about me and my work!
   📑 [**Data Science & Analytics**](https://www.life-global.org/certificate/a26ea4b6-a359-4ce9-8f4e-56533dd24c8e)
 
 # AI
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/0935a03f-eb76-4c56-a73d-0d05c333d74c" width="600" height="300"/>
-</p>
-
 <p></p>
 
 <img src="https://github.com/user-attachments/assets/d234b6aa-4a01-4496-bdeb-1b9b1a7a128c" width="45" height="45">
